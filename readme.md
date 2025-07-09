@@ -48,5 +48,5 @@ No arquivo `main.py` você pode:
 - 
    git clone https://github.com/mat2809/proj_biblioteca.git
 
-  autor:# Matheus Colaço
+  autor: Matheus Colaço
    
