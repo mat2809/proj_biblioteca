@@ -45,10 +45,8 @@ No arquivo `main.py` você pode:
 - Listar todos os livros disponíveis
 - Buscar livros por título
 - Remover livros pelo ISBN
+- 
+   git clone https://github.com/mat2809/proj_biblioteca.git
 
-## 📁 Como usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-mat2809/estudo_OOP_biblioteca.git
-   cd estudo_OOP_biblioteca
+  autor:# Matheus Colaço
+   
